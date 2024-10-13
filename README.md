@@ -1,0 +1,1 @@
+Example of Python Open Closed Design Pattern (Python SOLID Principles)
